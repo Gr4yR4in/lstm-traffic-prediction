@@ -1,0 +1,6 @@
+pycache/
+*.py[cod]
+.venv/
+venv/
+.vs/
+.idea/
